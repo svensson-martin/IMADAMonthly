@@ -13,7 +13,6 @@ library(gridExtra)
 ```
 
 \
-
 **News about staff**
 
 For the Algorithms section:
