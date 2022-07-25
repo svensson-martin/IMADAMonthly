@@ -1,5 +1,5 @@
 ---
-title: "News and messages from the HoD"
+title: "News and messages from the HoD, "
 output: 
   word_document:
     reference_docx: newsletter-reference.docx
@@ -11,6 +11,8 @@ library(tidyverse)
 library(kableExtra)
 library(gridExtra)
 ```
+
+\
 
 **News about staff**
 
