@@ -1,0 +1,66 @@
+---
+title: "News and messages from the HoD"
+output: 
+  word_document:
+    reference_docx: newsletter-reference.docx
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE)
+library(tidyverse)
+library(kableExtra)
+library(gridExtra)
+```
+
+**News about staff**
+
+For the Algorithms section:
+\
+
+For the Artificial Intelligence, Cybersecurity and Programming Languages section:
+\
+
+For the Computational Science section:
+\
+
+For the Data Science and Statistics section:
+\
+
+For the LSUL section:
+\
+
+For the Topology, Algebra, Analysis and Geometry section:
+\
+
+For IMADA's secretariat:
+\ 
+
+**Positions in process**
+\
+
+PhD positions:
+\
+
+Postdoc positions:
+\
+
+Assistant, associate and full professor positions:
+\
+
+Other positions:
+\ 
+
+**Minutes from committees, boards and councils**
+
+The IMADA Management Group:
+\
+
+The Faculty Management Group:
+\
+
+The Academic Council:
+\
+
+The Faculty Liaison Committee:
+\
+
