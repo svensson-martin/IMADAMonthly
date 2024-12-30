@@ -27,7 +27,7 @@ For the Computational Science section:
 For the Data Science and Statistics section:
 \
 
-For the LSUL section:
+For the Learning Experience Design section:
 \
 
 For the Topology, Algebra, Analysis and Geometry section:
@@ -51,7 +51,13 @@ Assistant, associate and full professor positions:
 Other positions:
 \
 
+**News from the web**
+
+\
+
 **Minutes from committees, boards and councils**
+
+\
 
 The IMADA Management Group:
 \
